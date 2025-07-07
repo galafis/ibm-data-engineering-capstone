@@ -1,0 +1,14 @@
+# IBM Data Engineering Capstone Project Requirements
+# IBM Data Engineering Specialization
+
+# Core Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Database
+sqlite3
+
+# Utilities
+python-dateutil>=2.8.0
+pytz>=2023.3
+
