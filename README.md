@@ -6,6 +6,14 @@
 
 ---
 
+## 🖼️ Imagem Hero
+
+![Placeholder para Imagem Hero](https://via.placeholder.com/1200x400?text=Imagem+Hero+do+Projeto+de+Engenharia+de+Dados)
+
+*Esta é uma imagem placeholder. A imagem hero original não foi encontrada ou não pôde ser gerada automaticamente. Por favor, substitua-a por uma imagem relevante e profissional que represente o projeto.*
+
+---
+
 ## 🎯 Project Overview
 
 ### English
