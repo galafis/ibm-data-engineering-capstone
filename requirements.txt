@@ -6,7 +6,7 @@ pandas>=2.0.0
 numpy>=1.24.0
 
 # Database
-sqlite3
+# sqlite3 (removido - stdlib ou pacote local)
 
 # Utilities
 python-dateutil>=2.8.0
